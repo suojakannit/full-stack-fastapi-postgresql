@@ -17,4 +17,5 @@ for key, value in cookie_config.items():
 config_out['_template'] = './'
 
 with open(out_path, 'w') as out_f:
-    out_f.write(yaml.dump({'default_context': config_out}, line_break=None, width=200))
+    out_f.write(yaml.dump({'default_context': config_out}, line_break=None,
+                          width=200))
