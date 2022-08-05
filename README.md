@@ -1,4 +1,6 @@
-# Full Stack FastAPI and PostgreSQL - Base Project Generator
+# Fork of @tiangolo Full Stack FastAPI and PostgreSQL - Base Project Generator
+
+To be updated for Python 3.10
 
 [![Build Status](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql.svg?branch=master)](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql)
 
